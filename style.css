@@ -1,0 +1,46 @@
+h1.titulo{
+    text-align: center;
+}
+
+div.cuadrado1{
+    color: blue;
+    background-color: blue;
+    display:inline-block;
+    width: 400px;
+    height: 400px;
+}
+
+div.cuadrado2{
+    color: red;
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.cuadrado3{
+    color: yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.verd{
+    background-color: green;
+    color: green;
+    height: 60px;
+}
+
+span.estudiar{
+    text-decoration: underline;
+}
+
+p.cal{
+ font-size: larger;   
+}
+
+p.web{
+    font-size: larger;
+    background-color: lightblue;
+}
