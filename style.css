@@ -6,14 +6,14 @@ div.cuadrado1{
     color: blue;
     background-color: blue;
     display:inline-block;
-    width: 400px;
+    width: 900px;
     height: 400px;
 }
 
 div.cuadrado2{
     color: red;
     background-color: red;
-    width: 400px;
+    width: 900px;
     height: 400px;
     display: inline-block;
 }
@@ -21,7 +21,7 @@ div.cuadrado2{
 div.cuadrado3{
     color: yellow;
     background-color: yellow;
-    width: 400px;
+    width: 900px;
     height: 400px;
     display: inline-block;
 }
